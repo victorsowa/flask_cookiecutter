@@ -1,2 +1,3 @@
-# flask_cookiecutter
-cookiecutter recipe based on the talk python to me flask course
+# Flask cookiecutter
+
+Cookiecutter based on based on the Talk Python to me flask course.
